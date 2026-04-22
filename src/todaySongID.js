@@ -4,4 +4,4 @@
  * https://github.com/GreenTreeTeam/ChillingMusic/
  * Licensed MIT © GreenTree Team
  */
-module.exports = 30
+module.exports = 59
